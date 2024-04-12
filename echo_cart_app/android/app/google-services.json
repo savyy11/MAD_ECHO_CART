@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1037188634069",
+    "project_id": "echocart-app",
+    "storage_bucket": "echocart-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037188634069:android:e44e676f6fa238d7f3195c",
+        "android_client_info": {
+          "package_name": "com.example.echo_card_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI2021c96rUDxDc2JxOJ_5ePZnP8gwlYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037188634069:android:e8f63f9716288fd1f3195c",
+        "android_client_info": {
+          "package_name": "com.example.echocartapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI2021c96rUDxDc2JxOJ_5ePZnP8gwlYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037188634069:android:84cb4f9bebf24d05f3195c",
+        "android_client_info": {
+          "package_name": "com.example.eco_admin_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI2021c96rUDxDc2JxOJ_5ePZnP8gwlYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
